@@ -1,11 +1,6 @@
 ## Hi there 👋
-![glob-gall's Stats](https://github-readme-stats.vercel.app/api?username=glob-gall&theme=gruvbox&show_icons=true&hide_border=true&count_private=true)
-![glob-gall's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=glob-gall&theme=gruvbox&show_icons=true&hide_border=true&layout=compact)
-
-
-##
-![Visitor Count](https://profile-counter.glitch.me/glob-gall/count.svg)
-## 
+- name: GitHub-Profile-3D-Contrib
+  uses: yoshi389111/github-profile-3d-contrib@0.9.0
 
 <!--
 **glob-gall/glob-gall** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
