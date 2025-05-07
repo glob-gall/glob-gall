@@ -1,6 +1,5 @@
 ## Hi there 👋
-- name: GitHub-Profile-3D-Contrib
-  uses: yoshi389111/github-profile-3d-contrib@0.9.0
+
 
 <!--
 **glob-gall/glob-gall** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
